@@ -1,7 +1,7 @@
 export interface OwlItem {
   id: string;
   text: string;
-  deleted: boolean;
-  list_id: number;
+  order: number;
+  list_id: string;
   created_date: string;
 }
