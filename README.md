@@ -1,3 +1,3 @@
-# owl-types
+# lists-types
 
-Share of types between the owl test front-end and back-end apps. 
+Share of types between the lists front-end and back-end apps. 
